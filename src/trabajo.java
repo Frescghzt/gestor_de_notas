@@ -38,7 +38,7 @@ public class trabajo {
         
         //se pide el nombre del estudiante
         System.out.println("digite el nombre del estudiante 1");
-        
+        Systema.out.println("nicoll");
          
       }
       input.close();
